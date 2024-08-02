@@ -30,7 +30,7 @@
 </head>
 <body>
     <h1>Apple iPhone 15 Website</h1>
-    <a href="https://apple-iphone-site-seven.vercel.app/" target="_blank">Website Live link</a>
+    
     <h2>Overview</h2>
     <p>This project is a fully responsive website showcasing the Apple iPhone 15. It is built using <strong>React.js</strong> for the frontend framework, <strong>Three.js</strong> for rendering the 3D model, and <strong>GSAP</strong> for animations.</p>
     
@@ -210,4 +210,3 @@ export default iPhoneModel;
     <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 </body>
 </html>
-
